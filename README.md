@@ -2,6 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+```yaml
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "DevOps",
+  ]
+  
+currently_learning: ["React, Next.js, Tailwind CSS"]
+hobbies: ["Learning", "Games", "Art"]
+```
+
 <p><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
