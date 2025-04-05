@@ -7,12 +7,11 @@ fields_of_interests:
   [
     "Web Development",
     "Machine Learning",
-    "UI/UX",
-    "DevOps",
+    "DevOps"
   ]
   
-currently_learning: ["React, Next.js, Tailwind CSS"]
-hobbies: ["Learning", "Games", "Art"]
+currently_learning: ["React, Next.js, Tailwind CSS", Machine Learning]
+hobbies: ["Learning", "Web Browsing", "Minecraft"]
 ```
 
 <p><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></p>
