@@ -5,12 +5,10 @@
 ```yaml
 fields_of_interests:
   [
-    "Web Development",
+    "Software Development",
     "Machine Learning",
-    "DevOps"
   ]
   
-currently_learning: ["React, Next.js, Tailwind CSS", Machine Learning]
 hobbies: ["Learning", "Web Browsing", "Minecraft"]
 ```
 
